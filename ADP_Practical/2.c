@@ -6,7 +6,7 @@ void main()
     printf("\tIndia");
     getch();
 }
-****
+/* ****
 ***
 **
-*
+* */
